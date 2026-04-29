@@ -24,6 +24,9 @@ classifiers = [
 [project.urls]
 "Homepage" = "https://github.com/GoogleCloudPlatform/cloud-build-samples"
 "Bug Tracker" = "https://github.com/GoogleCloudPlatform/cloud-build-samples/issues"
+<<<<<<< HEAD
 
 [tool.hatch.build.targets.wheel]
 force-include = { "src/main.py" = "main.py" }
+=======
+>>>>>>> origin/pr/122
